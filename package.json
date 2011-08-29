@@ -1,0 +1,11 @@
+{ "name" : "lap"
+, "description" : "A lightweight application framework for Node"
+, "version" : "0.0.1"
+, "author" : "Gabriel Farrell <g@grrawr.com>"
+, "engines" : { "node": ">=0.4.0" }
+, "main" : "lib/lap"
+, "repository" :
+  { "type" : "git"
+  , "url" : "http://github.com/gsf/node-lap.git"
+  }
+}
