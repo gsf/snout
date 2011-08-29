@@ -1,6 +1,6 @@
 { "name" : "lap"
 , "description" : "A lightweight application framework for Node"
-, "version" : "0.0.1"
+, "version" : "0.0.2"
 , "author" : "Gabriel Farrell <g@grrawr.com>"
 , "engines" : { "node": ">=0.4.0" }
 , "main" : "lib/lap"
