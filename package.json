@@ -1,6 +1,6 @@
 { "name" : "snout"
 , "description" : "A lightweight application framework for Node"
-, "version" : "0.0.3"
+, "version" : "0.0.4"
 , "author" : "Gabriel Farrell <g@grrawr.com>"
 , "engines" : { "node": ">=0.4.0" }
 , "main" : "lib/snout"
