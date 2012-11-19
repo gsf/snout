@@ -1,11 +1,17 @@
-{ "name" : "snout"
-, "description" : "A lightweight application framework for Node"
-, "version" : "0.0.5"
-, "author" : "Gabriel Farrell <g@grrawr.com>"
-, "engines" : { "node": ">=0.4.0" }
-, "main" : "snout"
-, "repository" :
-  { "type" : "git"
-  , "url" : "http://github.com/gsf/snout.git"
-  }
+{
+  "name": "snout",
+  "description": "A lightweight application framework for Node",
+  "version": "0.1.0",
+  "author": "Gabriel Farrell <g@grrawr.com>",
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "main": "snout",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gsf/snout.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
 }
