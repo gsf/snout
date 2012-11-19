@@ -1,1 +1,6 @@
-Snout is a lightweight app framework for Node.
+Snout sniffs out a directory.
+
+Snout returns an object with keys equal to all filenames beneath a
+directory. The value for each is the data in the corresponding file.
+This is useful for, say, making all templates available in an
+object when a web app is started.
