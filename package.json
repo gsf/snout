@@ -1,6 +1,6 @@
 {
   "name": "snout",
-  "description": "A lightweight application framework for Node",
+  "description": "Snout sniffs out a directory",
   "version": "0.1.0",
   "author": "Gabriel Farrell <g@grrawr.com>",
   "engines": {
